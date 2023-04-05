@@ -168,4 +168,8 @@
   --minimize-button-color: #12db33de;
   --button-position: row;
 
+	
+}
+div[class*="titleBar-"] {
+    display: none !important;
 }
